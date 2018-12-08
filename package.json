@@ -1,0 +1,24 @@
+{
+  "name": "video-app-extracredit3",
+  "version": "1.0.0",
+  "description": "Video-App can display posters and videos in website.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janeandjack/Video-App-ExtraCredit3.git"
+  },
+  "author": "chaochao Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janeandjack/Video-App-ExtraCredit3/issues"
+  },
+  "homepage": "https://github.com/janeandjack/Video-App-ExtraCredit3#readme"
+}
